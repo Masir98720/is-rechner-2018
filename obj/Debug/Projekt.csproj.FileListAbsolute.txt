@@ -1,0 +1,26 @@
+C:\Users\mariu\source\repos\Projekt\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\mariu\source\repos\Projekt\Projekt\bin\Debug\Projekt.exe
+C:\Users\mariu\source\repos\Projekt\Projekt\bin\Debug\Projekt.pdb
+C:\Users\mariu\source\repos\Projekt\Projekt\obj\Debug\Projekt.csprojAssemblyReference.cache
+C:\Users\mariu\source\repos\Projekt\Projekt\obj\Debug\Projekt.Properties.Resources.resources
+C:\Users\mariu\source\repos\Projekt\Projekt\obj\Debug\Projekt.csproj.GenerateResource.cache
+C:\Users\mariu\source\repos\Projekt\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\mariu\source\repos\Projekt\Projekt\obj\Debug\Projekt.exe
+C:\Users\mariu\source\repos\Projekt\Projekt\obj\Debug\Projekt.pdb
+C:\Users\mariu\source\repos\Projekt\Projekt\obj\Debug\Projekt.Hauptanzeige.resources
+C:\Users\mariu\source\repos\Projekt\Projekt\obj\Debug\Projekt.Hafner.resources
+C:\Users\mariu\source\repos\Projekt\Projekt\obj\Debug\Projekt.Weller.resources
+C:\Users\mariu\source\repos\Projekt\Projekt\obj\Debug\Projekt.Ernst.resources
+C:\Users\Marius\Dropbox\Marius Weller\Projekt3.0\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\Marius\Dropbox\Marius Weller\Projekt3.0\Projekt\bin\Debug\Projekt.exe
+C:\Users\Marius\Dropbox\Marius Weller\Projekt3.0\Projekt\bin\Debug\Projekt.pdb
+C:\Users\Marius\Dropbox\Marius Weller\Projekt3.0\Projekt\obj\Debug\Projekt.csprojAssemblyReference.cache
+C:\Users\Marius\Dropbox\Marius Weller\Projekt3.0\Projekt\obj\Debug\Projekt.Ernst.resources
+C:\Users\Marius\Dropbox\Marius Weller\Projekt3.0\Projekt\obj\Debug\Projekt.Hauptanzeige.resources
+C:\Users\Marius\Dropbox\Marius Weller\Projekt3.0\Projekt\obj\Debug\Projekt.Hafner.resources
+C:\Users\Marius\Dropbox\Marius Weller\Projekt3.0\Projekt\obj\Debug\Projekt.Weller.resources
+C:\Users\Marius\Dropbox\Marius Weller\Projekt3.0\Projekt\obj\Debug\Projekt.Properties.Resources.resources
+C:\Users\Marius\Dropbox\Marius Weller\Projekt3.0\Projekt\obj\Debug\Projekt.csproj.GenerateResource.cache
+C:\Users\Marius\Dropbox\Marius Weller\Projekt3.0\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Marius\Dropbox\Marius Weller\Projekt3.0\Projekt\obj\Debug\Projekt.exe
+C:\Users\Marius\Dropbox\Marius Weller\Projekt3.0\Projekt\obj\Debug\Projekt.pdb
